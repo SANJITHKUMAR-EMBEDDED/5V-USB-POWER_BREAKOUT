@@ -1,7 +1,5 @@
 # USB-C to 3.3V Power Supply
 
-![3D Render of Board](usb_to_3.3v_front)
-
 A simple and robust power supply board that takes 5V from any USB-C port and provides a stable 3.3V output. This is **Project 1** of my #50BoardChallenge to become a job-ready PCB design engineer.
 
 ## Features
